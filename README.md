@@ -1,0 +1,2 @@
+# Data-Preprocessing-and-Machine-Learning-Student-Performance-Predictor-and-Dashboard-Project-
+This project focuses on predicting student performance using data preprocessing techniques and multiple machine learning algorithms. It emphasizes building a clean ML pipeline from raw data to model evaluation. Compare different machine learning models and identify the most effective algorithm for predicting student performance based on given data.
